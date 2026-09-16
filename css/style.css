@@ -1406,7 +1406,7 @@ footer h2 {
 /* Extra small devices (portrait phones, less than 576px) */
 @media (max-width: 767.98px) {
     header {
-        padding: 15px 0;
+        padding: 36px 0;
     }
 
     header .btn,
